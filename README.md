@@ -1,93 +1,111 @@
-📊 Power BI Portfolio
+# 📊 Power BI Portfolio  
 
-📌 Project Overview
+## 📌 Overview  
+This repository showcases interactive **Power BI dashboards** developed across industries including retail, finance, automotive, and corporate security.  
+Each dashboard demonstrates data-driven insights, **storytelling, interactivity, and KPIs** that help uncover patterns and trends.  
 
-This repository showcases a collection of Power BI dashboards developed to analyze and visualize data across multiple industries. The goal is to provide insights, interactivity, and storytelling through data, covering areas like retail sales, finance, security, and automotive performance.
+---
 
-🗂 Projects Included
+## 🛒 Retail & FMCG  
 
-🔹 Retail & FMCG
+### 📍 Retail Sales Dashboard  
+**Description:**  
+Tracks sales performance across regions and categories to highlight growth opportunities.  
 
-Retail Sales Dashboard → Tracks sales performance across regions and categories.
-Baze University Capstone Project → Student project focusing on retail analytics.
+**Key Features:**  
+- Regional and category-level sales breakdown.  
+- KPIs for revenue growth and product performance.  
+- Interactive filters for drill-down analysis.  
 
+---
 
-🔹 Financial Analytics
+### 🎓 Baze University Capstone Project  
+**Description:**  
+A student-focused project analyzing retail and academic-related sales metrics.  
 
-Financial Dashboard → Summarizes revenue, expenses, and profit trends.
+**Key Features:**  
+- Retail analytics with academic context.  
+- Dashboards tailored for project evaluation.  
 
+---
 
-🔹 Automotive & Logistics
+## 💰 Financial Analytics  
 
-Car Sales Dashboard → Performance analysis of vehicle sales over time.
+### 📍 Financial Dashboard  
+**Description:**  
+Summarizes financial performance through key indicators like revenue, expenses, and profit.  
 
+**Key Features:**  
+- Year-over-year revenue trend analysis.  
+- Expense and profit margin KPIs.  
+- Drill-through to explore categories in detail.  
 
-🔹 Corporate Security
+---
 
-Security Solutions for XYZ Company → Monitoring and analysis of key security KPIs.
+## 🚗 Automotive & Logistics  
 
+### 📍 Car Sales Dashboard  
+**Description:**  
+Analyzes automotive sales performance across time and categories.  
 
-🎯 Key Features Across Dashboards
+**Key Features:**  
+- Vehicle sales trends over years.  
+- Comparison by manufacturer and model.  
+- Regional breakdown of performance.  
 
-✅ Interactive slicers & filters for dynamic reporting.
+---
 
-✅ KPIs & Cards for quick insight into performance.
+## 🛡 Corporate Security  
 
-✅ Drill-through analysis for deeper exploration.
+### 📍 Security Solutions for XYZ Company  
+**Description:**  
+Monitors and visualizes security KPIs to improve corporate protection strategies.  
 
-✅ Data modeling & relationships built with Power Query.
+**Key Features:**  
+- Threat detection metrics.  
+- Security event frequency and resolution tracking.  
+- Dashboard built for executive oversight.  
 
-✅ DAX measures for advanced calculations.
+---
 
+## 🎯 Features Across Dashboards  
+- ✅ Interactive slicers & filters for dynamic reporting.  
+- ✅ KPIs & Cards for performance insights.  
+- ✅ Drill-through analysis for deeper exploration.  
+- ✅ Data modeling & relationships via Power Query.  
+- ✅ Advanced **DAX calculations** for business logic.  
 
-🖼 Project Previews
+---
 
-Below are a preview of some of the dashboards
+## 🛠 Tools & Technologies Used  
+- **Power BI Desktop**  
+- **DAX (Data Analysis Expressions)**  
+- **Power Query (M Language)**  
+- **Data Modeling**  
+- **Excel & SQL** (for preprocessing)  
 
-![Retail Dashboard](<img width="1056" height="588" alt="image" src="https://github.com/user-attachments/assets/5e28fdb1-42c3-4026-bf41-513528f62367" />
-)  
-![Financial Dashboard](<img width="1047" height="587" alt="image" src="https://github.com/user-attachments/assets/b3b35656-8bac-4c82-bbdf-441a9e9171fb" />
-)  
-![Car Sales Dashboard](<img width="1060" height="590" alt="image" src="https://github.com/user-attachments/assets/ce28a1c1-e113-4a84-a8b3-e4bcb7cdf899" />
-)
+---
 
-![XYZ Security Dashboard](<img width="1261" height="597" alt="image" src="https://github.com/user-attachments/assets/ea4def3a-deac-4597-817b-77fc7dd7f1de" />
-)
+## 🚀 How to Use  
+1. Clone or download this repository.  
+2. Open `.pbix` files using **Power BI Desktop**.  
+3. Interact with slicers, filters, and visuals for insights.  
 
+---
 
+## 📂 More Projects  
+Some Power BI dashboards are too large for GitHub.  
+You can explore more of my projects on OneDrive:  
 
-🛠 Tools & Technologies Used
+👉 [View More Dashboards on OneDrive](https://1drv.ms/your-shared-link)  
 
-Power BI Desktop
+Or scan the QR code below:  
 
-DAX (Data Analysis Expressions)
+<img width="200" height="200" alt="OneDrive QRCode" src="https://github.com/user-attachments/assets/2c2695dc-1ec2-4419-b9a3-b2fd3252f0f3" />  
 
-Power Query (M Language)
+---
 
-Data Modeling
+## ✍ Author  
+Created by **Olubunmi E.O.**  
 
-Excel & SQL (for preprocessing in some cases)
-
-
-🚀 How to Use
-
-Clone or download this repository.
-
-Open .pbix files using Power BI Desktop.
-
-Explore the dashboards using interactive filters and visuals.
-
-
-📂 More Projects
-
-Explore additional dashboards and files here:
-👉 My OneDrive Portfolio
-
-Or you can scan the QRCode below
-
-<img width="2000" height="2528" alt="bit ly_4ms5GjF" src="https://github.com/user-attachments/assets/2c2695dc-1ec2-4419-b9a3-b2fd3252f0f3" />
-
-
-✍ Author
-
-Created by Olubunmi E.O.
+---
